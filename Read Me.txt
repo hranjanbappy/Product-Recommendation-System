@@ -1,0 +1,3 @@
+This is a simple product recommendation system in PHP.
+Here Collaborative filtering with weighted sum approch is applied for recommendation.
+Please insert customer data inside the code following comments. No input system is introduced for simplicity. 
